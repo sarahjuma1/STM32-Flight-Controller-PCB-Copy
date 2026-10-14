@@ -24,5 +24,4 @@ KiCad, STM32, I²C, SPI, USB-C, PCB Design, Embedded Systems
 ## Project Status
 Personal PCB design project. Hardware manufacturing and physical testing have not been completed.
 
-## Design Images
-Add schematic, PCB layout, and 3D render images here.
+
